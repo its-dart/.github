@@ -2,7 +2,7 @@
 
 ## Project management on autopilot
 
-Built in partnership with hundreds of founders and their startups, Dart typically saves teams a third of their project management time through AI-powered automation, intuitive shortcuts, and integrations. It's used by growing teams that are iterating quickly across a diverse set of tasks in engineering, design, sales, and more.
+Dart is crafted to save time at work. It uses GPT-4 to learn your team’s patterns and then automate away 'work about work' like filling out descriptions, categorizing and assigning tasks, writing subtasks, and more.
 
 Check out [the Dart website to learn more](https://itsdart.com).
 
